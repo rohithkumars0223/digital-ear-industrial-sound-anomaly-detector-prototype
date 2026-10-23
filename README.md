@@ -46,7 +46,7 @@ The repository contains the firmware and dashboard implementation. The code incl
 **Physical operation, classification accuracy and real-world anomaly-detection performance still require documented testing.** No accuracy figures or performance claims are made here.
 ## Experimental Readings
 
-![Digital Ear sound readings](sound-readings.jpng)
+![Digital Ear sound readings](sound-readings.jpeg)
 ## Future Improvements
 
 - Test with labeled normal and abnormal machine recordings.

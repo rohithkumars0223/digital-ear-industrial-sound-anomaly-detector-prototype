@@ -44,7 +44,9 @@ The project also includes a Wi-Fi web dashboard intended to display the predicte
 The repository contains the firmware and dashboard implementation. The code includes the main audio-capture, inference and web-monitoring logic.
 
 **Physical operation, classification accuracy and real-world anomaly-detection performance still require documented testing.** No accuracy figures or performance claims are made here.
+## Experimental Readings
 
+![Digital Ear sound readings](sound-readings.jpng)
 ## Future Improvements
 
 - Test with labeled normal and abnormal machine recordings.

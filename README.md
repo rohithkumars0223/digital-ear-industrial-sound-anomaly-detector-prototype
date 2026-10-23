@@ -38,7 +38,7 @@ The project also includes a Wi-Fi web dashboard intended to display the predicte
 3. The firmware passes captured audio to the Edge Impulse inference model.
 4. The firmware selects the highest-scoring class, subject to a confidence threshold.
 5. The result and associated scores are made available to the web dashboard.
-![Digital Ear sound readings](Componentsfunction.jpeg)
+![Digital Ear sound readings](components-function.jpeg)
 ## Current Status
 
 The repository contains the firmware and dashboard implementation. The code includes the main audio-capture, inference and web-monitoring logic.
